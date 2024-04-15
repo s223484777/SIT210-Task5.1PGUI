@@ -1,5 +1,5 @@
 # SIT210-Task5.1PGUI
- S306 SIT210 Task 15.1P, python GUI to control LEDs.
+ S306 SIT210 Task 5.1P, python GUI to control LEDs.
 
 ## Description
 A simple GUI with radio buttons to cotrol a set of LEDs connected to the GPIO of a Raspberry Pi 5.
